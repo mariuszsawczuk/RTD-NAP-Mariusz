@@ -1,5 +1,5 @@
 {
-    "restructuredtext.confPath": "${workspaceFolder}/source",
+    "restructuredtext.confPath": "${workspaceFolder}\\source",
     "spellright.language": [
         "en"
     ],
@@ -9,5 +9,5 @@
         "plaintext",
         "restructuredtext"
     ],
-    "python.pythonPath": "/usr/local/bin/python3"
+    "python.pythonPath": "C:\\Users\\sawczuk\\AppData\\Local\\Microsoft\\WindowsApps\\python.exe"
 }
